@@ -11,6 +11,8 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
+
+
         RelativeLayout rlRoot = (RelativeLayout) findViewById(R.id.rl_root);
     }
 }
